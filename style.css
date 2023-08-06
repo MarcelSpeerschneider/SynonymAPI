@@ -1,0 +1,42 @@
+[id*="set"] {
+    /* outline: 1px red solid; */
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.set-container {
+    border-radius: 16px;
+    background: #e0e0e0;
+    box-shadow: 28px 28px 57px #b8b8b8,
+        -28px -28px 57px #ffffff;
+}
+
+h2 {
+    padding: 8px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+input {
+    margin: 16px;
+}
+
+.input-container {
+    border-radius: 16px;
+    background: #a3a3a3;
+    box-shadow: 28px 28px 57px #b8b8b8,
+        -28px -28px 57px #ffffff;
+    margin: 16px;
+}
+
+button {
+    border-radius: 16px;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+}
+
+button:hover {
+    background-color: white;
+}
